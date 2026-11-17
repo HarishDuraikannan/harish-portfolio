@@ -166,7 +166,8 @@ function App() {
                 I’m a web developer with hands-on experience building responsive
                 websites and web application interfaces. My day-to-day work
                 revolves around React, JavaScript, Tailwind CSS and Bootstrap. I
-                also work with API integration and basic backend connectivity to
+                also work with API integration and basic backend connectivity to 
+                
                 bring complete user experiences to life.
               </p>
               <div className="mt-9 grid grid-cols-2 gap-4 sm:grid-cols-3">
